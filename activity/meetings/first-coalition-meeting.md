@@ -24,7 +24,7 @@ See the [full application](/activity/ngi-application.md) for more details.
 - Start discussion on organisation, maybe tooling
 - Proposition of internal training on open models
 - Verify ability to use git and Github
-- Explaination of the (temporary) [ngi-program repository](https://github.com/Open-Models/ngi-program) (and the [Brick](https://github.com/Open-Models/Brique) repo)
+- Explaination of the (temporary) [ngi-coalition repository](https://github.com/Open-Models/ngi-coalition) (and the [Brick](https://github.com/Open-Models/Brique) repo)
 - Events (Kickoff + [other](/activity/events))
 - Preparatory work for OKA (mapping) and DRA (consortium organisation)
 - Find extra points on [this pad](https://mensuel.framapad.org/p/open-models-ngi-first-meeting-a3l6)

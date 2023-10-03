@@ -1,4 +1,4 @@
-# NGI Program
+# NGI Coalition
 
 Temporary workplace for the coalition on open models education around the [Next Generation Internet](https://www.ngi.eu/) (re)search program, related to the « [Brick of
 Knowledge](https://open-models.org) ».
