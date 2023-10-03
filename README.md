@@ -3,7 +3,7 @@
 Temporary workplace for the coalition on open models education around the [Next Generation Internet]() (re)search program, related to the « [Brick of
 Knowledge](https://open-models.org) ».
 
-See the [application project for the NGI open call]() **[validation pending]**.
+See the [application project for the NGI open call](/activity/ngi-application.md) **[validation pending]**.
 
 A first place to retrieve the project of the application, organisational information for the coalition, meetings
 planning, etc.
