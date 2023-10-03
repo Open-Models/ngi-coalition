@@ -12,7 +12,7 @@ planning, etc.
 
 See the [activity folder](/activity) to find the community work, work in progress or already done, any project ideas.
 
-Activities related to [meetings](/activity/meetings) will be tracked inside, a place to plan them, prepare their organization and store their reports.
+Activities related to [coalition meetings](/activity/meetings) and [events](/activity/events) will be tracked inside, a place for organization and storage of annex documents.
 
 ## License
 
