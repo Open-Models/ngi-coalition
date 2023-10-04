@@ -14,6 +14,16 @@ Date: 23-29 October, hybrid/worldwide
 Open Access Week 2023 is an opportunity to join together, take action, and raise awareness around the importance of
 community control of knowledge sharing systems.
 
+### Open Innovation in Life Sciences
+
+Website: https://oils23.b2match.io/
+Date: 26-27 October, Zurich (hybrid)
+
+Open Innovation in Life Sciences 2023 is a premier life science conference connecting researchers and professionals
+across academia, industry, and society in the light of open science.
+
+**Coalition info:** DRA team will be taking part.
+
 ## November (2023)
 
 ### Hack the Hackathon
