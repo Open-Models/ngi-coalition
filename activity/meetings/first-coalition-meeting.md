@@ -1,6 +1,6 @@
 ## First Coalition Meeting
 
-**Date:** Undefined, [availability poll](https://framadate.org/ETaPHgpPmvgpPUyj)
+**Date:** Undefined, [availability poll](https://framadate.org/HEk56jtJgrL9ukX9)
 
 The first meeting of the consortium after the sending of the NGI application. A time to talk more about the project, to get to know
 each other and lay the groundwork.
