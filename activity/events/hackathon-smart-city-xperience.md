@@ -54,4 +54,5 @@ for hands-on practice to think and learn.
 - Report « [Hacking the School](https://zenodo.org/records/10013549) »
 - [HES-SO Centre for Scientific Information](https://www.hesge.ch/heg/en/actualites/2022/creation-du-centre-information-scientifique-hes-so) (CISO)
 - [Swiss coalition on Open Education](https://openeducation.unige.ch/) + [Swiss Digital Skills Academy](https://d-skills.ch/)
+- [Certificate of Open Studies](https://edutechwiki.unige.ch/en/Certificate-of-Open-Studies), University of Geneva (see [TECFA](https://tecfa.unige.ch/en/))
 - [Hack the Hackathon](https://hackthackathon.github.io/)
