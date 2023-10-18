@@ -52,6 +52,15 @@ the forefront of Europe's digital transformation. At its core, the forum places 
 Digital Commons, which is particularly crucial for Europe, as it fosters equitable access to information, fuels
 innovation, and bolsters digital sovereignty.  
 
+### Hackathon - Smart City Xperience, by Open Geneva
+
+Website: https://scx23.sparkboard.com/  
+Date: 24-25 November
+
+A 24-hour hackathon on the theme of smart cities « to design innovative solutions for our sustainable cities ».
+
+**Coalition info:** see [submitted project](./hackathon-smart-city-xperience.md).
+
 ## February (2024)
 
 ### Fosdem
