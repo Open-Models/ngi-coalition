@@ -1,58 +1,64 @@
-## Proposal for « Smart City Xperience » Hackathon by Open Geneva [2023]
+## Proposal for the « Smart City Xperience » Hackathon [2023]
 
-**[Draft, not submitted]**
+The 24-25 November, [Open Geneva](https://opengeneva.org/) sets up a [24-hour hackathon on « smart cities »](https://scx23.sparkboard.com/)
+hosted by a higher education establishment ([HEG](https://www.hesge.ch/heg/en)). This is the global
+description of the challenge for the event to work on open models
+education and the [brick of knowledge](https://open-models.org).
 
-[Open Geneva](https://opengeneva.org/) sets up a [24-hour hackathon on smart cities](https://scx23.sparkboard.com/)
-hosted by a higher education establishment ([HEG](https://www.hesge.ch/heg/en)). The idea is to submit a challenge
-around this topic of smart cities while linking it to open models education (see
-[coalition](https://github.com/Open-Models/ngi-coalition)).
+**Submitted challenge (in french):** https://scx23.sparkboard.com/project/65310feeb7f4cd7e6326f537
 
-A way of exploring the relationship between science and society in this work around open models.
+A way of exploring the relationship between knowledge and society in this work around open models, a way of exploring the use of hackathon
+in education (on open models).
 
-### Smart city, open institutions and knowledge. How can science and education enlighten society?
+### What kind of knowledge transmission to enlighten society with the digital by and for open models?
 
-The aim would be to imagine what an "open smart city" might look like in the light of these dynamics of openness around
-knowledge that are taking shape with digital.
+**The proposed work area is as follows:** contribute to the structuration of an implementation strategy for training in
+open models within organisations.
 
-A discussion to feed the strategy around the « [Brick of Knowledge on Open Models](https://open-models.org/) » in
-this work of implementing training within universities (and organisations). An opportunity to also seek to advance
-open models education within different organisations, including the host structure and open geneva.
+This work is part of a nascent coalition on open models education with the (pending) [application for the Next Generation Internet](https://github.com/Open-Models/ngi-coalition) (NGI) programme/grant,
+where we applied at 3 players ([Digital Research Academy](https://digital-research.academy/) [DRA], Open Knowledge Association [OKA] and
+[AbcSxyZ](https://github.com/AbcSxyZ/)) with a core project based on this implementation of open models education inside organisations,
+supporting DRA and OKA in a first time.
 
-The room and debate could be inclusive to all hackathon attendees who have the time or desire to contribute, by
-making the progress of exchanges and the project accessible (posters, notices, etc.). This would enable a wider range of
-ideas and expertise to be put forward, as well as being a learning experience.
+The aim will be to broaden the perspective on how these implementations should be carried out and on the possible
+players interested in it, while at the same time experimenting open models education through hackathon to support participants
+get to grips with them (and the hackathon work topic).
 
-As these are complex subjects which shouldn't be revolutionized in 24 hours and because we're doing education, the
-aim will also be to make it a learning experience for participants, in terms of open models, science, education, etc.
-that can contribute to the open geneva hackathon framework (see hack the hackathon in resources).
+A learning dimension, enabling the experimentation of the project itself, and a practical dimension, to apply this knowledge
+by working on the implementation of trainings. Two mutually reinforcing dimensions.
 
-**A hackathon for advancing the « Brick of Knowledge » through citizen debate, a learning time for hackathon attendees
-while seeking to improve links with organisations for open models education.**
+This will be some sort of meta-hackathon, a hackathon to also think of hackathons as a way to conduct(/implement) open models education (in organisations).
 
-### Educational strategy for the hackathon
+### Framework for Educational Hackathon (on Open Models)
 
-The event is an opportunity to provide education on open models in a variety of ways, a global strategy can be thought in
-interaction with the whole hackathon ecosystem.
+This event would be an opportunity to explore the use of hackathon as educational tools, particularly for open models,
+and to build a hackathon framework around it to prepare the event.
 
-The project, the proposal during the hackathon could support education in open models for all the event's
-participants, starting by core group members. By using the [faclab](https://www.faclab.org/) and deploying the [pedagogical
-environment](https://zenodo.org/records/8021779) to train people and assist them in addressing these issues for their
-own projects.
+One of the objectives will be to understand how to provide education within a hackathon while supporting projects development.
 
-**A kind of open models education hub within a hackathon**, tools and practices that can be transferred to organisations
-such as open geneva and faclab.
+This framework design will particularly be worked on during the [Hack the Hackathon](https://hackthackathon.github.io/) (6-10 November), an event
+with an international community of hackathon practitioners « exploring scientific collaboration, learning, and
+civic engagement through hackathons ».
 
-It's a way of working on this interaction between society/projects and a source of knowledge providing an opportunity
-for hands-on practice to think and learn.
+A framework to be experimented during the Smart City Xperience hackathon, as well as being improved during the event itself. This allows us to reflect on what we are doing during the hackathon.
 
-> The [Hack the Hackathon](https://hackthackathon.github.io/) workshops (6-10 November) will be a moment to improve the education
-> strategy before the event, allowing us to think more in terms of a framework for open models education in hackathons.
+The aim is to have a framework that can be reused by or proposed to other players: various organisations who gravitate around the event,
+higher education establishments such as the host, the hack the hackathon participants, NGI consortium members, etc.
+
+An opportunity to promote education on open models within hackathons, shaping in the same time an implementation strategy for open models training inside organisations.
+
+More broadly, it may be possible to consider the [use of hackathons in the construction of digital commons](https://blog.scikit-learn.org/events/sprints-value/),
+transforming hackathons in a tool for (open models) education in support of the commons, powered by universities.
+
 
 ### Related resources/projects
 
-- Report Smart City Xperience 2022 « [Imagining the HEG as a skills hub for the Geneva of tomorrow](https://doi.org/10.5281/zenodo.10013327) ». 
-- Report « [Hacking the School](https://zenodo.org/records/10013549) »
+- [FR] Report Smart City Xperience 2022 « [Imagining the HEG as a skills hub for the Geneva of tomorrow](https://doi.org/10.5281/zenodo.10013327) ».
+- [FR] Report « [Hacking the School](https://zenodo.org/records/10013549) »
 - [HES-SO Centre for Scientific Information](https://www.hesge.ch/heg/en/actualites/2022/creation-du-centre-information-scientifique-hes-so) (CISO)
 - [Swiss coalition on Open Education](https://openeducation.unige.ch/) + [Swiss Digital Skills Academy](https://d-skills.ch/)
 - [Certificate of Open Studies](https://edutechwiki.unige.ch/en/Certificate-of-Open-Studies), University of Geneva (see [TECFA](https://tecfa.unige.ch/en/))
 - [Hack the Hackathon](https://hackthackathon.github.io/)
+
+**Articles:**
+- The Value of Open Source Sprints, the scikit-learn Experience: https://blog.scikit-learn.org/events/sprints-value/
