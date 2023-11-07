@@ -55,6 +55,8 @@ transforming hackathons in a tool for (open models) education in support of the 
 
 - [FR] Report Smart City Xperience 2022 « [Imagining the HEG as a skills hub for the Geneva of tomorrow](https://doi.org/10.5281/zenodo.10013327) ».
 - [FR] Report « [Hacking the School](https://zenodo.org/records/10013549) »
+- [FR] Hackathon: [Smart city Experience](https://www.hesge.ch/heg/actualites/2023/hackathon-smart-city-experience), HEG article
+- [HES-SO school network](https://www.hes-so.ch/en/schools-and-fields-of-study/schools)
 - [HES-SO Centre for Scientific Information](https://www.hesge.ch/heg/en/actualites/2022/creation-du-centre-information-scientifique-hes-so) (CISO)
 - [Swiss coalition on Open Education](https://openeducation.unige.ch/) + [Swiss Digital Skills Academy](https://d-skills.ch/)
 - [Certificate of Open Studies](https://edutechwiki.unige.ch/en/Certificate-of-Open-Studies), University of Geneva (see [TECFA](https://tecfa.unige.ch/en/))
