@@ -31,14 +31,15 @@ This will be some sort of meta-hackathon, a hackathon to also think of hackathon
 
 ### Framework for Educational Hackathon (on Open Models)
 
-This event would be an opportunity to explore the use of hackathon as educational tools, particularly for open models,
-and to build a hackathon framework around it to prepare the event.
+This event would be an opportunity to explore the use of hackathon as an educational tool, particularly for open models,
+and to possibly build a hackathon framework around it to prepare the event.
 
-One of the objectives will be to understand how to provide education within a hackathon while supporting projects development.
+Following the [Hack the Hackathon](https://hackthackathon.github.io/) [6-10 November], a GitHub repository on educational
+hackathon have been created to bring together a community and resources: https://github.com/hackthackathon/educational-hackathon
 
-This framework design will particularly be worked on during the [Hack the Hackathon](https://hackthackathon.github.io/) (6-10 November), an event
-with an international community of hackathon practitioners « exploring scientific collaboration, learning, and
-civic engagement through hackathons ».
+A place to get a better understanding and mastery of the educational dimension of hackathons, built by and for a community of hackathon practitioners.
+
+In connection with this, it may be possible to build a framework more closely related to open models education.
 
 A framework to be experimented during the Smart City Xperience hackathon, as well as being improved during the event itself. This allows us to reflect on what we are doing during the hackathon.
 
@@ -50,9 +51,9 @@ An opportunity to promote education on open models within hackathons, shaping in
 More broadly, it may be possible to consider the [use of hackathons in the construction of digital commons](https://blog.scikit-learn.org/events/sprints-value/),
 transforming hackathons in a tool for (open models) education in support of the commons, powered by universities.
 
-
 ### Related resources/projects
 
+- [Educational Hackathon Repository](https://github.com/hackthackathon/educational-hackathon), initiated during the Hack the Hackathon (vol. 3)
 - [FR] Report Smart City Xperience 2022 « [Imagining the HEG as a skills hub for the Geneva of tomorrow](https://doi.org/10.5281/zenodo.10013327) ».
 - [FR] Report « [Hacking the School](https://zenodo.org/records/10013549) »
 - [FR] Hackathon: [Smart city Experience](https://www.hesge.ch/heg/actualites/2023/hackathon-smart-city-experience), HEG article
